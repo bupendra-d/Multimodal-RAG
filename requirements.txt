@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+pillow
+python-dotenv
+openai
+langchain-core
+langchain-nvidia-ai-endpoints
+langchain-chroma
+chromadb
