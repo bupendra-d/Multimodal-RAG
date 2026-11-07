@@ -4,7 +4,7 @@ An AI-powered Multimodal Retrieval-Augmented Generation (RAG) application that a
 
 ## Live Demo
 
-[Try NVIDIA Multimodal RAG](https://YOUR-APP-NAME.streamlit.app/)
+[Try NVIDIA Multimodal RAG](https://multimodal-rag-ps3hdzzmkqjwpqumkwgcwq.streamlit.app/)
 
 ## Features
 
